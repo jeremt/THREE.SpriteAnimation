@@ -3,7 +3,12 @@ THREE.SpriteAnimation
 
 Simple class to manage 2D animations for THREE.js.
 
-USAGE
+Demo
+----
+
+Take a look at the demostration [here](http://jeremt.github.io/THREE.SpriteAnimation/) ;).
+
+Usage
 -----
 
 1. Create an animation
